@@ -36,7 +36,4 @@ This project analyzes cafe sales data using Python and Tableau to transform raw 
 * Google Colab Notebook
 * Tableau Dashboard
 
-## 📊 Dashboard Preview
 
-![Dashboard](dashboard/Dashboard_1.png)
-![Dashboard](dashboard/Dashboard_2.png)
