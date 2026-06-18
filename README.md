@@ -37,3 +37,8 @@ This project analyzes cafe sales data using Python and Tableau to transform raw 
 * Tableau Dashboard
 
 
+## 📊 Dashboard Preview
+
+![Dashboard](Cafe_Sales_Performance/Dashboard/Dashboard_1.png)
+
+![Dashboard](Cafe_Sales_Performance/Dashboard/Dashboard_2.png)
