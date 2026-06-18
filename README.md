@@ -33,5 +33,9 @@ This project analyzes cafe sales data using Python and Tableau to transform raw 
 
 * Raw Dataset
 * Cleaned Dataset
-* Jupyter Notebook
+* Google Colab Notebook
 * Tableau Dashboard
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
